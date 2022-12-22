@@ -1,1 +1,1 @@
-# 365-days-of-code-2023
+# 365 Daya of Code - 2023
