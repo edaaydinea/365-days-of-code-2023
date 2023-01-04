@@ -18,6 +18,6 @@ Check my [website](https://edaaydinea.home.blog/365-days-of-coding-2023/) for pr
 
 ### January 1 - 8, 2023
 
-- I started studying online in the Master of Science in Data Science Program at the University of Colorado Boulder
-- I studied in Challenge: Programming for Data Science with Python course under the Next Gen Tech Booster Scholarship.
-- I studied SQL Study Plan on LeetCode.
+- I started studying online in the [Master of Science in Data Science Program](https://www.colorado.edu/program/data-science/coursera-overview) at the University of Colorado Boulder
+- I studied in [Challenge: Programming for Data Science with Python](https://sites.google.com/udacity.com/nextgenerationtechboosterschol/home?authuser=0) course under the Next Gen Tech Booster Scholarship.
+- I studied [SQL Study Plan](https://leetcode.com/study-plan/sql/) on LeetCode.
